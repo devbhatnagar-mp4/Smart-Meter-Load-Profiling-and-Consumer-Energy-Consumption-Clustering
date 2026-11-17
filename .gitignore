@@ -218,3 +218,17 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+# ==================================
+# SMART METER PROJECT - DATA FILES
+# ==================================
+
+# Original downloaded dataset
+/data/raw/
+
+# Processed datasets and generated data
+/data/processed/
+
+# Local environment
+.venv/
